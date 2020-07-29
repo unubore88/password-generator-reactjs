@@ -1,4 +1,6 @@
-## Generator of password in ReactJS w/Hooks
+## Generator of password in ReactJS w/Hooks & Sass
+
+### Try to generate your password: https://unubore88.github.io/password-generator-reactjs/
 
 ### What you can do :
 
