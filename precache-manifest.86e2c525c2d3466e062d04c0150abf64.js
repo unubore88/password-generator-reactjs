@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e300f7c54545c742fec0a077c6119cf",
+    "revision": "72df9b17a18c4128b2b5bfc2d27a5740",
     "url": "/password-generator-reactjs/index.html"
   },
   {
