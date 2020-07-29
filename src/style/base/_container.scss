@@ -1,0 +1,21 @@
+.container {
+  @extend %border-for-testing;
+  background: lighten(#333745, 10);
+}
+
+.mdp-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  row-gap: 1rem;
+  column-gap: 3rem;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: 300px;
+}
